@@ -30,6 +30,7 @@ A curated list of awesome explanations of programming concepts.
 ### Merge vs Rebase
 
 > Merge: “Tell me your version of the story, I’ll tell you mine, and then we’ll try to piece something together out of them” 
+
 > Rebase: “Tell me your version of the story, and I will interrupt your every sentence to tell you where you’re wrong”
 
 [Source](https://twitter.com/dan_abramov/status/952572767584604160?s=09)
