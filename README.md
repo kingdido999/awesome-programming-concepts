@@ -1,6 +1,11 @@
-# e.g.
+# Awesome Programming Concepts
 
-Programming concepts can be easily explained by examples!
+A curated list of awesome explanations of programming concepts.
+
+- [Programming](#programming)
+- [Version Control](#version-control)
+
+## Programming
 
 ### Channel
 
@@ -19,3 +24,12 @@ Programming concepts can be easily explained by examples!
 > Imagine it like a TV in a family room. When one person enters to watch TV, they turn it on. Others can come into the room and watch the TV. When the last person leaves the room, they turn the TV off because it’s no longer being used. If someone turns the TV off while others are still watching it, there’d be uproar from the remaining TV watchers!
 
 [Source](https://doc.rust-lang.org/book/second-edition/ch15-04-rc.html)
+
+## Version Control
+
+### Merge vs Rebase
+
+> Merge: “Tell me your version of the story, I’ll tell you mine, and then we’ll try to piece something together out of them” 
+> Rebase: “Tell me your version of the story, and I will interrupt your every sentence to tell you where you’re wrong”
+
+[Source](https://twitter.com/dan_abramov/status/952572767584604160?s=09)
